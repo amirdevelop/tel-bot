@@ -1,8 +1,8 @@
 {
-  "name": "rat_server",
+  "name": "constractor",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
     "node": "16.13.2"
   },
